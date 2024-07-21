@@ -7,6 +7,8 @@ from nltk.stem.porter import PorterStemmer
 
 ps=PorterStemmer()
 
+nltk.download('stopwords')
+
 
 tfidf=pickle.load(open('vectorizer.pkl','rb'))
 model=pickle.load(open('model.pkl','rb'))
