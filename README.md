@@ -11,8 +11,8 @@
 
 # Model trainig and classifer:
 
--- Implemented three naive baies classifiers to achieve comapratively better precision
--- Mutinomial Naive Baies performed better with an precision of 1.0
+-- Implemented three naive bayes classifiers to achieve comapratively better precision
+-- Mutinomial Naive Bayes performed better with an precision of 1.0
 -- Considered multinomialNB for model building 
 
 
